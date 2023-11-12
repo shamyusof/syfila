@@ -6,7 +6,7 @@ Follow the steps mentioned below to install and run the project.
 
 1. Clone or download the repository
 2. Go to the project directory and run `composer install`
-3. Run `npm install`
+3. Run the command `npm install`
 4. Create `.env` file by copying the `.env.example`. You may use the command to do that `cp .env.example .env`
 5. Update the database name and credentials in `.env` file
 6. Run the command `php artisan migrate --seed`
